@@ -1,0 +1,8 @@
+.app {
+  min-height: 100vh;
+}
+
+.countOfTasks {
+  font-size: 80%;
+  color: #9F7AEA;
+}
