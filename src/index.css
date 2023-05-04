@@ -1,0 +1,31 @@
+.card {
+  background-color: #f9dfc8;
+  margin-top: 10px;
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.app {
+  position: relative;
+}
+
+.fullCard {
+  position: fixed;
+  top: 10vh;
+  left: 10vw;
+  background-color: #f9dfc8;
+  width: 80vw;
+  height: 80vh;
+  z-index: 1;
+  border-radius: 16px;
+  padding: 20px 16px;
+}
+
+.fullCard button {
+  background-color: red;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
